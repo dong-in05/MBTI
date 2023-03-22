@@ -4,27 +4,46 @@
     width: 80%;
     text-align: center;
     border-radius: 20px;
-}
-
-
-.resultname{
+  }
+  
+  #shareResult{
+    background-color: whitesmoke;
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+  }
+  
+  .resultname{
     font-size: 26px;
-}
-
-
-.resultDesc{
+  }
+  
+  .resultDesc{
     font-size: 20px;
-}
-
-.kakao{
+  }
+  
+  .kakao{
     color: white;
-    background-color: #fee500;
+    background-color: #FEE500;
     font-size: 20px;
     border: 0px;
     border-radius: 20px;
-}
-
-.kakao:hover, .kakao:focus{
+  }
+  
+  .kakao:hover, .kakao:focus {
     background-color: whitesmoke;
-    color: #fee500;
-}
+    color: #FEE500;
+  }
+  
+  .gohome{
+    color: white;
+    background-color: pink;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 20px;
+  }
+  
+  .gohome:hover, .gohome:focus {
+    background-color: whitesmoke;
+    color: pink;
+  }
+  
