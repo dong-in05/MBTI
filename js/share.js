@@ -1,4 +1,4 @@
-const url = 'https://twelvelovetype.netlify.app/';
+const url = 'https://dong-in05.github.io/MBTI/';
 
 function setShare(){
   var resultImg = document.querySelector('#resultImg');
